@@ -1,0 +1,24 @@
+.page{
+	text-align: center;
+	title="";
+}
+
+.NAME{
+	text-align: center;
+	title="";
+}
+
+.BLOG{
+	text-align: left;
+}
+
+.TITLE{
+	text-align: center;
+}
+
+.DOC{
+	text-align: center;
+}
+title{
+--vars: "Creat";
+}
